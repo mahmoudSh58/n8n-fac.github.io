@@ -1,41 +1,73 @@
-# Data Deletion Instructions
+# Privacy Policy
 
 Last Updated: May 31, 2026
 
-## Requesting Data Deletion
+## Introduction
 
-Users may request deletion of their data associated with this application at any time.
+This Privacy Policy describes how this application ("the App") collects, uses, and protects information obtained through Facebook and Meta services.
 
-### Method 1: Remove Facebook Permissions
+The App is used to automate workflows and integrations between Facebook Pages and n8n automation services.
 
-1. Open Facebook Settings.
-2. Navigate to Apps and Websites.
-3. Locate this application.
-4. Remove the application from your connected apps.
+## Information We Collect
 
-This will revoke the application's access to your Facebook account.
+The App may access and process the following information that users explicitly authorize through Facebook:
 
-### Method 2: Contact Us
+* Facebook Page information
+* Page posts and content
+* Page engagement data
+* Public profile information required for authentication
+* Other permissions explicitly granted by the user through Facebook Login
 
-Send a data deletion request to:
+The App only accesses information necessary to provide its intended functionality.
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+## How We Use Information
 
-Please include:
+Information obtained through Facebook APIs is used solely to:
 
-* Your Facebook account name
-* The Facebook Page associated with the request (if applicable)
-* A statement requesting deletion of your data
+* Automate workflows and business processes
+* Publish content to authorized Facebook Pages
+* Retrieve Page information and engagement metrics
+* Execute user-authorized automation tasks through n8n
 
-### Processing Time
+We do not sell, rent, or share user data with third parties for marketing purposes.
 
-Data deletion requests are typically processed within 30 days of verification.
+## Data Storage and Security
 
-### Confirmation
+Reasonable technical and organizational measures are implemented to protect data from unauthorized access, disclosure, alteration, or destruction.
 
-Once the deletion process is completed, all applicable stored data associated with the user will be permanently removed from our systems, except where retention is required by law.
+Data is processed only for the purposes authorized by the user and required for application functionality.
 
-## Contact
+## Third-Party Services
+
+The App may use the following services:
+
+* Meta (Facebook) Platform
+* n8n Workflow Automation
+* Cloud hosting providers and infrastructure services
+
+These services maintain their own privacy policies and terms of service.
+
+## Data Retention
+
+Data is retained only for as long as necessary to provide the requested functionality or comply with legal obligations.
+
+Users may request deletion of their data at any time.
+
+## User Rights
+
+Users may:
+
+* Revoke Facebook permissions at any time
+* Request deletion of stored data
+* Request information regarding data processing activities
+
+## Changes to This Policy
+
+This Privacy Policy may be updated periodically. Updates will be published on this page.
+
+## Contact Information
+
+For questions regarding this Privacy Policy or data handling practices, please contact:
 
 Email: [mahmoudsharif915@gmail.com](mailto:mahmoudsharif915@gmail.com)
 
